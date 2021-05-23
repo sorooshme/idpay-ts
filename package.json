@@ -9,7 +9,7 @@
     "build": "tsc"
   },
   "dependencies": {
-    "axios": "0.21.1"
+    "axios": "^0.21.1"
   },
   "repository": {
     "type": "git",

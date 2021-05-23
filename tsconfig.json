@@ -10,5 +10,5 @@
     "forceConsistentCasingInFileNames": true,
     "declaration": true
   },
-  "exclude": ["**/sample"]
+  "exclude": ["**/sample", "**/dist"]
 }
